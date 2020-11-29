@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-webpage{
+    text-align: center;
+}
+.menu{
+    background: #8e44ad;
+}
+.m h4{
+    display: inline-block;
+    text-align: center;
+}
+.content{
+    background: #95a5a6;
+}
+.footer{
+    background: #7f8c8d;
+}
+.sidebar{
+    width: 200px;
+    height: 1000px;
+    background: #34495e;
+
+}
+.img{
+    size:1024px;
+}
